@@ -65,7 +65,7 @@ Jika jadwal dikira salah, maka pengguna diminta untuk mengulang input*/
         cin >> pilihan;
 
         if (pilihan == 'y' || pilihan == 'Y') {
-                // Jika pengguna memilih "y", jadwa dianggap benar
+                // Jika pengguna memilih "y", jawaban dianggap benar
                 cout << endl;
             return true;
         } else {
