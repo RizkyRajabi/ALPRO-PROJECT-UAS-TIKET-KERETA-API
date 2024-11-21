@@ -3,7 +3,7 @@
 using namespace std;
 
 /* Fungsi untuk Login
-Fungsinya untuk mminta username dan password yang sudah ditentukan.
+Fungsinya untuk meminta username dan password yang sudah ditentukan.
 Jika Kombinasi username dan password cocok, maka login berhasil.
 jika kombinasi salah, pengguna diminta untuk mengisinya kembali.*/
 bool login () {
